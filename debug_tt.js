@@ -2,10 +2,10 @@ const mongoose = require('mongoose');
 const path = require('path');
 const dotenv = require('dotenv');
 
-// Load env from the backend directory
-dotenv.config({ path: path.join(__dirname, 'backend', '.env') });
+dotenv.config({ path: path.join(__dirname, 'web', '.env') });
+dotenv.config({ path: path.join(__dirname, 'web', '.env.local') });
 
-const Timetable = require('./backend/models/Timetable');
+const Timetable = require('./web/lib/models/Timetable');
 
 async function checkErrors() {
   try {

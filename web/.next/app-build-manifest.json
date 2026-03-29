@@ -1,14 +1,14 @@
 {
   "pages": {
     "/_not-found/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
+      "static/chunks/webpack-2822d5ee36a245cc.js",
       "static/chunks/fd9d1056-12d0224c61359539.js",
       "static/chunks/117-b265954a20e9f4be.js",
       "static/chunks/main-app-b44f0f01a3f8189e.js",
       "static/chunks/app/_not-found/page-7d2f838bf35010af.js"
     ],
     "/layout": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
+      "static/chunks/webpack-2822d5ee36a245cc.js",
       "static/chunks/fd9d1056-12d0224c61359539.js",
       "static/chunks/117-b265954a20e9f4be.js",
       "static/chunks/main-app-b44f0f01a3f8189e.js",
@@ -17,15 +17,39 @@
       "static/chunks/app/layout-13cf1303f07474f0.js"
     ],
     "/config/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
+      "static/chunks/webpack-2822d5ee36a245cc.js",
       "static/chunks/fd9d1056-12d0224c61359539.js",
       "static/chunks/117-b265954a20e9f4be.js",
       "static/chunks/main-app-b44f0f01a3f8189e.js",
       "static/css/5d1d4745af7ac12e.css",
       "static/chunks/app/config/page-bb7a2ba6028fedad.js"
     ],
+    "/departments/page": [
+      "static/chunks/webpack-2822d5ee36a245cc.js",
+      "static/chunks/fd9d1056-12d0224c61359539.js",
+      "static/chunks/117-b265954a20e9f4be.js",
+      "static/chunks/main-app-b44f0f01a3f8189e.js",
+      "static/css/e920e77aa756ce67.css",
+      "static/chunks/app/departments/page-dfc681700153505d.js"
+    ],
+    "/department-timetables/page": [
+      "static/chunks/webpack-2822d5ee36a245cc.js",
+      "static/chunks/fd9d1056-12d0224c61359539.js",
+      "static/chunks/117-b265954a20e9f4be.js",
+      "static/chunks/main-app-b44f0f01a3f8189e.js",
+      "static/css/efe9b83a33dc5f7b.css",
+      "static/chunks/app/department-timetables/page-54939fc6c1f276b7.js"
+    ],
+    "/leave-schedule/page": [
+      "static/chunks/webpack-2822d5ee36a245cc.js",
+      "static/chunks/fd9d1056-12d0224c61359539.js",
+      "static/chunks/117-b265954a20e9f4be.js",
+      "static/chunks/main-app-b44f0f01a3f8189e.js",
+      "static/css/b93ab47481f57f91.css",
+      "static/chunks/app/leave-schedule/page-48225a5d2390335f.js"
+    ],
     "/faculty-dashboard/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
+      "static/chunks/webpack-2822d5ee36a245cc.js",
       "static/chunks/fd9d1056-12d0224c61359539.js",
       "static/chunks/117-b265954a20e9f4be.js",
       "static/chunks/main-app-b44f0f01a3f8189e.js",
@@ -33,38 +57,71 @@
       "static/chunks/app/faculty-dashboard/page-6d54600aca34bc3d.js"
     ],
     "/faculty-schedule/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
+      "static/chunks/webpack-2822d5ee36a245cc.js",
       "static/chunks/fd9d1056-12d0224c61359539.js",
       "static/chunks/117-b265954a20e9f4be.js",
       "static/chunks/main-app-b44f0f01a3f8189e.js",
       "static/css/efe9b83a33dc5f7b.css",
       "static/chunks/app/faculty-schedule/page-d7d8d58c2315541d.js"
     ],
-    "/departments/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
-      "static/chunks/fd9d1056-12d0224c61359539.js",
-      "static/chunks/117-b265954a20e9f4be.js",
-      "static/chunks/main-app-b44f0f01a3f8189e.js",
-      "static/css/e920e77aa756ce67.css",
-      "static/chunks/app/departments/page-dfc681700153505d.js"
-    ],
     "/login/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
+      "static/chunks/webpack-2822d5ee36a245cc.js",
       "static/chunks/fd9d1056-12d0224c61359539.js",
       "static/chunks/117-b265954a20e9f4be.js",
       "static/chunks/main-app-b44f0f01a3f8189e.js",
       "static/chunks/app/login/page-e2f3e59ec90483f5.js"
     ],
     "/student-dashboard/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
+      "static/chunks/webpack-2822d5ee36a245cc.js",
       "static/chunks/fd9d1056-12d0224c61359539.js",
       "static/chunks/117-b265954a20e9f4be.js",
       "static/chunks/main-app-b44f0f01a3f8189e.js",
       "static/css/b93ab47481f57f91.css",
       "static/chunks/app/student-dashboard/page-dc194d8293183e9a.js"
     ],
+    "/student-timetable/page": [
+      "static/chunks/webpack-2822d5ee36a245cc.js",
+      "static/chunks/fd9d1056-12d0224c61359539.js",
+      "static/chunks/117-b265954a20e9f4be.js",
+      "static/chunks/main-app-b44f0f01a3f8189e.js",
+      "static/css/4dc5010df6f2f308.css",
+      "static/chunks/app/student-timetable/page-0a73c2b83225c9d8.js"
+    ],
+    "/student-holidays/page": [
+      "static/chunks/webpack-2822d5ee36a245cc.js",
+      "static/chunks/fd9d1056-12d0224c61359539.js",
+      "static/chunks/117-b265954a20e9f4be.js",
+      "static/chunks/main-app-b44f0f01a3f8189e.js",
+      "static/css/b93ab47481f57f91.css",
+      "static/chunks/app/student-holidays/page-bfa036136e898ed2.js"
+    ],
+    "/subjects/page": [
+      "static/chunks/webpack-2822d5ee36a245cc.js",
+      "static/chunks/fd9d1056-12d0224c61359539.js",
+      "static/chunks/117-b265954a20e9f4be.js",
+      "static/chunks/main-app-b44f0f01a3f8189e.js",
+      "static/css/289193ab9718f1ad.css",
+      "static/chunks/app/subjects/page-01fbf35ca1e2a5e2.js"
+    ],
+    "/timetables/[id]/page": [
+      "static/chunks/webpack-2822d5ee36a245cc.js",
+      "static/chunks/fd9d1056-12d0224c61359539.js",
+      "static/chunks/117-b265954a20e9f4be.js",
+      "static/chunks/main-app-b44f0f01a3f8189e.js",
+      "static/css/4dc5010df6f2f308.css",
+      "static/chunks/app/timetables/[id]/page-1b3298b626917793.js"
+    ],
+    "/timetables/page": [
+      "static/chunks/webpack-2822d5ee36a245cc.js",
+      "static/chunks/fd9d1056-12d0224c61359539.js",
+      "static/chunks/117-b265954a20e9f4be.js",
+      "static/chunks/main-app-b44f0f01a3f8189e.js",
+      "static/css/99e627e924af5c44.css",
+      "static/chunks/258-5271aa56a472b97f.js",
+      "static/chunks/app/timetables/page-e745f4b2c710085d.js"
+    ],
     "/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
+      "static/chunks/webpack-2822d5ee36a245cc.js",
       "static/chunks/fd9d1056-12d0224c61359539.js",
       "static/chunks/117-b265954a20e9f4be.js",
       "static/chunks/main-app-b44f0f01a3f8189e.js",
@@ -76,70 +133,13 @@
       "static/chunks/413-60a436a0f074be02.js",
       "static/chunks/app/page-ac03f01479cc9b7b.js"
     ],
-    "/department-timetables/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
-      "static/chunks/fd9d1056-12d0224c61359539.js",
-      "static/chunks/117-b265954a20e9f4be.js",
-      "static/chunks/main-app-b44f0f01a3f8189e.js",
-      "static/css/efe9b83a33dc5f7b.css",
-      "static/chunks/app/department-timetables/page-54939fc6c1f276b7.js"
-    ],
-    "/student-holidays/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
-      "static/chunks/fd9d1056-12d0224c61359539.js",
-      "static/chunks/117-b265954a20e9f4be.js",
-      "static/chunks/main-app-b44f0f01a3f8189e.js",
-      "static/css/b93ab47481f57f91.css",
-      "static/chunks/app/student-holidays/page-bfa036136e898ed2.js"
-    ],
     "/faculty/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
+      "static/chunks/webpack-2822d5ee36a245cc.js",
       "static/chunks/fd9d1056-12d0224c61359539.js",
       "static/chunks/117-b265954a20e9f4be.js",
       "static/chunks/main-app-b44f0f01a3f8189e.js",
       "static/css/efe9b83a33dc5f7b.css",
       "static/chunks/app/faculty/page-876344eb1671e024.js"
-    ],
-    "/student-timetable/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
-      "static/chunks/fd9d1056-12d0224c61359539.js",
-      "static/chunks/117-b265954a20e9f4be.js",
-      "static/chunks/main-app-b44f0f01a3f8189e.js",
-      "static/css/4dc5010df6f2f308.css",
-      "static/chunks/app/student-timetable/page-0a73c2b83225c9d8.js"
-    ],
-    "/subjects/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
-      "static/chunks/fd9d1056-12d0224c61359539.js",
-      "static/chunks/117-b265954a20e9f4be.js",
-      "static/chunks/main-app-b44f0f01a3f8189e.js",
-      "static/css/289193ab9718f1ad.css",
-      "static/chunks/app/subjects/page-01fbf35ca1e2a5e2.js"
-    ],
-    "/leave-schedule/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
-      "static/chunks/fd9d1056-12d0224c61359539.js",
-      "static/chunks/117-b265954a20e9f4be.js",
-      "static/chunks/main-app-b44f0f01a3f8189e.js",
-      "static/css/b93ab47481f57f91.css",
-      "static/chunks/app/leave-schedule/page-48225a5d2390335f.js"
-    ],
-    "/timetables/[id]/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
-      "static/chunks/fd9d1056-12d0224c61359539.js",
-      "static/chunks/117-b265954a20e9f4be.js",
-      "static/chunks/main-app-b44f0f01a3f8189e.js",
-      "static/css/4dc5010df6f2f308.css",
-      "static/chunks/app/timetables/[id]/page-1b3298b626917793.js"
-    ],
-    "/timetables/page": [
-      "static/chunks/webpack-a23ecb1057ab0026.js",
-      "static/chunks/fd9d1056-12d0224c61359539.js",
-      "static/chunks/117-b265954a20e9f4be.js",
-      "static/chunks/main-app-b44f0f01a3f8189e.js",
-      "static/css/99e627e924af5c44.css",
-      "static/chunks/258-5271aa56a472b97f.js",
-      "static/chunks/app/timetables/page-2f72ab8fdbb24a46.js"
     ]
   }
 }

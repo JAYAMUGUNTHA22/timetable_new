@@ -57,7 +57,7 @@ function Timetables() {
         }
       })
       .catch((err) => {
-        setMessage({ type: 'error', text: err.message || 'Generation failed. Is the backend running? Check Academic Config, and that each subject has Faculty & Room allocated.' });
+        setMessage({ type: 'error', text: err.message || 'Generation failed. Check Academic Config, and that each subject has Faculty & Room allocated.' });
       })
       .finally(() => setGenerating(false));
   };
